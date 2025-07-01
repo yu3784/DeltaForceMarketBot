@@ -1,0 +1,21 @@
+# GUI 和基础库
+tkinter==0.1.0  # 内置，通常无需额外安装
+PyAutoGUI==0.9.54
+opencv-contrib-python==4.11.0.86
+numpy==1.24.4
+
+# OCR 和图像处理
+pytesseract==0.3.10
+Pillow==11.2.1  # pytesseract 依赖
+
+# 系统控制
+pynput==1.7.6
+pyuac==0.0.3  # 0.1.4 不可用，使用0.0.3替代
+pywin32==306   # 用于Windows系统集成
+
+# 日志优化
+loguru==0.8.3  # 更强大的日志库替代logging
+
+# 其他依赖
+six==1.17.0     # pynput依赖
+packaging==25.0 # pytesseract依赖

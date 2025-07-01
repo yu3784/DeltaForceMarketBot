@@ -1,0 +1,80 @@
+{
+    "cards_config": [
+        {
+            "name": "金蛋",
+            "wantBuy": 1,
+            "position": [
+                0.3016,
+                0.2324
+            ],
+            "quantity_control_pos": [
+                0.909,
+                0.776
+            ],
+            "buy_button_pos": [
+                0.837,
+                0.846
+            ],
+            "price_region": [
+                0.155,
+                0.15,
+                0.1,
+                0.05
+            ],
+            "max_price": 35,
+            "min_price": 0
+        },
+        {
+            "name": "紫蛋",
+            "wantBuy": 1,
+            "position": [
+                0.544,
+                0.213
+            ],
+            "quantity_control_pos": [
+                0.9094,
+                0.7222
+            ],
+            "buy_button_pos": [
+                0.827,
+                0.799
+            ],
+            "price_region": [
+                0.155,
+                0.15,
+                0.1,
+                0.05
+            ],
+            "max_price": 35,
+            "min_price": 0
+        },
+        {
+            "name": "肉蛋",
+            "wantBuy": 1,
+            "position": [
+                0.806,
+                0.221
+            ],
+            "quantity_control_pos": [
+                0.9094,
+                0.7222
+            ],
+            "buy_button_pos": [
+                0.827,
+                0.799
+            ],
+            "price_region": [
+                0.155,
+                0.15,
+                0.1,
+                0.05
+            ],
+            "max_price": 35,
+            "min_price": 0
+        }
+    ],
+    "delays": {
+        "page_stable_delay": 50,
+        "buy_page_wait_delay": 10
+    }
+}

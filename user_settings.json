@@ -1,0 +1,11 @@
+{
+    "page_stable_delay": 50,
+    "buy_page_wait_delay": 10,
+    "max_price": 600,
+    "金蛋_min_price": 0,
+    "金蛋_max_price": 2900,
+    "紫蛋_min_price": 20,
+    "紫蛋_max_price": 1250,
+    "肉蛋_min_price": 20,
+    "肉蛋_max_price": 638
+}
